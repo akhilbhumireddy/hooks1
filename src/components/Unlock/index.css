@@ -1,0 +1,11 @@
+.p {
+  background-color: black;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.p{
+    color: white;
+    font-family: "Roboto";
+    font-weight: 400;
+}
